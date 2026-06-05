@@ -246,11 +246,8 @@ This project is licensed under the MIT License.
 
 **Prashanth**
 
-## Working Video Link
-
-****
-
 ## Website Link
 
 ****
+
 Built with ❤️ using Streamlit and Google Gemini AI.
