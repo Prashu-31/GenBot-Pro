@@ -244,10 +244,10 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Prashanth**
+**Prashanth H**
 
-## Website Link
+## Deploied Chat-Bot Link
 
-****
+**https//genbot-pro.streamlit.app**
 
 Built with ❤️ using Streamlit and Google Gemini AI.
