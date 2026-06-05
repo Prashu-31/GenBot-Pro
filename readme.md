@@ -248,6 +248,6 @@ This project is licensed under the MIT License.
 
 ## Deploied Chat-Bot Link
 
-**https//genbot-pro.streamlit.app**
+**https://genbot-pro.streamlit.app**
 
 Built with ❤️ using Streamlit and Google Gemini AI.
